@@ -1,6 +1,6 @@
 # Wallisson Rony - NLW #1
 
-<p>Este projeto foi criado para armazenar os projetos back-end, web e mobile proposto na primeira semana da Next Level Week (NLW) ministrada pela RocketSeat.</p>
+<p>Este projeto foi criado para armazenar os projetos back-end, web e mobile propostos na primeira semana da Next Level Week (NLW) ministrada pela RocketSeat.</p>
 
 </hr>
 
